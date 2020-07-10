@@ -1,0 +1,7 @@
+C:\Users\viktt\Documents\tanulás\programozás\C#\2020.04.29 - kp vizsgafeladatok\Kiralynok\Kiralynok\bin\Debug\Kiralynok.exe.config
+C:\Users\viktt\Documents\tanulás\programozás\C#\2020.04.29 - kp vizsgafeladatok\Kiralynok\Kiralynok\bin\Debug\Kiralynok.exe
+C:\Users\viktt\Documents\tanulás\programozás\C#\2020.04.29 - kp vizsgafeladatok\Kiralynok\Kiralynok\bin\Debug\Kiralynok.pdb
+C:\Users\viktt\Documents\tanulás\programozás\C#\2020.04.29 - kp vizsgafeladatok\Kiralynok\Kiralynok\obj\Debug\Kiralynok.csprojAssemblyReference.cache
+C:\Users\viktt\Documents\tanulás\programozás\C#\2020.04.29 - kp vizsgafeladatok\Kiralynok\Kiralynok\obj\Debug\Kiralynok.csproj.CoreCompileInputs.cache
+C:\Users\viktt\Documents\tanulás\programozás\C#\2020.04.29 - kp vizsgafeladatok\Kiralynok\Kiralynok\obj\Debug\Kiralynok.exe
+C:\Users\viktt\Documents\tanulás\programozás\C#\2020.04.29 - kp vizsgafeladatok\Kiralynok\Kiralynok\obj\Debug\Kiralynok.pdb
